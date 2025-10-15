@@ -1,2 +1,1 @@
-console.log 
-    document.write("Hello World!") ;
+console.log ("Hello World!") ;
